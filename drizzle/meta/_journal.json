@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1775241797020,
+      "tag": "0000_overrated_gladiator",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1775242262442,
+      "tag": "0001_oval_maximus",
+      "breakpoints": true
+    }
+  ]
+}
