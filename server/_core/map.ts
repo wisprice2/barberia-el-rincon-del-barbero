@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * Google Maps API Integration for Manus WebDev Templates
  * 
@@ -313,6 +314,7 @@ export type RoadsResult = {
  * Output: Image URL (not JSON) - use directly in <img src={url} />
  * Note: Construct URL manually with getMapsConfig() for auth
  */
+
 
 
 

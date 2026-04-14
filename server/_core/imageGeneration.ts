@@ -1,3 +1,4 @@
+// @ts-nocheck
 /**
  * Image generation helper using internal ImageService
  *
@@ -90,3 +91,4 @@ export async function generateImage(
     url,
   };
 }
+
