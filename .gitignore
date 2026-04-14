@@ -136,3 +136,5 @@ drizzle/migrations
 
 # Vite
 .vite/
+
+.vercel
